@@ -3,3 +3,8 @@ El dataset contiene imagenes de "texto enfocado", que se refiere a imágenes de 
 El conjunto de entrenamiento de reconocimiento de palabras de ICDAR 2013 se compone de 848 archivos.
 
 El conjunto de pruebas de reconocimiento de palabras de ICDAR 2013 se compone de 1095 archivos.
+
+Las imagenes son sacadas de: https://datasets.activeloop.ai/docs/ml/datasets/icdar-2013-dataset/
+y los labels por comodidad fueron descargados desde https://rrc.cvc.uab.es/?ch=2&com=introduction
+
+

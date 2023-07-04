@@ -1,0 +1,5 @@
+El dataset contiene imagenes de "texto enfocado", que se refiere a imágenes de texto explícitamente enfocadas en torno al contenido textual de interés. Se trata del escenario típico de las aplicaciones de lectura y traducción de textos, en las que el usuario dirige explícitamente el enfoque de la cámara hacia el contenido textual de interés.
+
+El conjunto de entrenamiento de reconocimiento de palabras de ICDAR 2013 se compone de 848 archivos.
+
+El conjunto de pruebas de reconocimiento de palabras de ICDAR 2013 se compone de 1095 archivos.
